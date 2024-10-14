@@ -1,0 +1,5 @@
+Function ---> 3 state
+                 |
+          i> declare ---> return-type functionname();
+         ii> define
+        iii> call         

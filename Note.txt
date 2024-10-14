@@ -1,0 +1,9 @@
+# --> pre processor
+include --> helps to add library to pre processor
+<stdio.h> --> library
+main --> function
+int --> return type --> (datatype)
+() --> used for parameter
+{} --> used for body
+return 0; --> it helps to return result
+& --> address
